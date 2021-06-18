@@ -17,18 +17,18 @@ Education
 * Bachelor of Economics, Peking University, 2015 - 2019
 
 Research Positions
-======
+------
 * Research Professional, UChicago BFI (2021 - Present)
 * Research Assistant, UChicago Harris (2019 - 2021)
 
 Skills
-======
+------
 * Stata, R, MATLAB, Python
 * LaTeX, Mathematica
 * OpenSesame
 
 Awards
-======
+------
 * Honors M.A., UChicago Harris (2021)
 * DRW fellow, UChicago EPIC (2020)
 * Master Scholarship, UChicago Harris (2019)
