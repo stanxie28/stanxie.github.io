@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "stanxie28"
   google_plus      :
   keybase          :
   instagram        :
@@ -178,13 +178,16 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  personal:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  posts:
     output: true
     permalink: /:collection/:path/
 
@@ -218,6 +221,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,10 +239,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _personal
   - scope:
       path: ""
-      type: portfolio
+      type: personal
     values:
       layout: single
       author_profile: true
