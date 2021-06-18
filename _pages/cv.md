@@ -9,24 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Latest update: July 2021
 
-Work experience
+Education
+------
+* Master of Arts in Public Policy with Certificate in Research Methods (MACRM) *with honors*, The University of Chicago, 2019 - 2021
+* Bachelor of Economics, Peking University, 2015 - 2019
+
+Research Positions
 ======
-* Summer 2015: Research Assistant
+* Research Assistant: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
