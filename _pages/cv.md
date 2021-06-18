@@ -13,7 +13,7 @@ Latest update: July 2021
 
 Education
 ------
-* Master of Arts in Public Policy with Certificate in Research Methods (MACRM) *with honors*, The University of Chicago, 2019 - 2021
+* Master of Arts in Research Methods of Public Policy (MACRM), The University of Chicago, 2019 - 2021
 * Bachelor of Economics, Peking University, 2015 - 2019
 
 Research Positions
@@ -23,7 +23,9 @@ Research Positions
 
 Skills
 ======
-* Stata, R, MATLAB, Python, R, LaTeX, OpenSesame, Mathematica
+* Stata, R, MATLAB, Python
+* LaTeX, Mathematica
+* OpenSesame
 
 Awards
 ======
