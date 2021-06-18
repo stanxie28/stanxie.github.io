@@ -29,7 +29,7 @@ Skills
 
 Awards
 ======
-* Honors M.A., UChicago Harris (2020)
+* Honors M.A., UChicago Harris (2021)
 * DRW fellow, UChicago EPIC (2020)
 * Master Scholarship, UChicago Harris (2019)
 * Undergraduate Research Grant, Peking University (2018)
