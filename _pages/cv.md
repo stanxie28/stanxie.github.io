@@ -15,6 +15,8 @@ Education
 ------
 * Master of Arts in Research Methods of Public Policy (MACRM), The University of Chicago, 2019 - 2021
 * Bachelor of Economics, Peking University, 2015 - 2019
+* College Visiting Student, Columbia University, 2018
+* Methods Summer Programme, LSE, 2018
 
 Research Positions
 ------
