@@ -27,7 +27,7 @@ Skills
 ------
 * Stata, R, MATLAB, Python
 * LaTeX, Mathematica
-* OpenSesame
+* OpenSesame, Qualtrics
 
 Awards
 ------
