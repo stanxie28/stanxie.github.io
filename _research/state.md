@@ -2,10 +2,10 @@
 title: "The Real State: Inside the Corruption System of Kinshasa's Traffic Police"
 collection: research
 permalink: /research/state
-venue: "Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](www.kristoftiteca.be) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))"
+venue: "Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](https://kristoftiteca.be/kristof-titeca/) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))"
 ---
 
-Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](www.kristoftiteca.be) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))
+Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](https://kristoftiteca.be/kristof-titeca/) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))
 
 Abstract
 ------

@@ -2,10 +2,10 @@
 title: "The Effect of Supervisor Collusion on the Spread of Corruption"
 collection: research
 permalink: /research/state2
-venue: "Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](www.kristoftiteca.be) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))"
+venue: "Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](https://kristoftiteca.be/kristof-titeca/) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))"
 ---
 
-Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](www.kristoftiteca.be) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))
+Work in Progress (with Aimable A. Lameke, Albert Malukisa Nkuku, [Kristof Titeca](https://kristoftiteca.be/kristof-titeca/) and [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/))
 
 Abstract
 ------
