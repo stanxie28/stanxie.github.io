@@ -256,6 +256,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _tennis
+  - scope:
+      path: ""
+      type: tennis
+    values:
+      layout: tennis
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
