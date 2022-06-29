@@ -190,7 +190,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
-
+  tennis:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
