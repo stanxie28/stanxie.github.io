@@ -15,6 +15,7 @@ My research focuses on political, behavioral and development economics.
 ## Research
 ### Working Papers
 - The Real State: Inside The Congo’s Traffic Police Agency (with [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/), [Kristof Titeca](https://kristoftiteca.be/), Aimable A. Lameke and Albert Malukisa Nkuku)
+  - Supplemental Appendix: [Study Design Appendix](https://www.dropbox.com/s/pcg6a4ibz8jzu6j/Quota-Appendix-Study-Design.pdf?dl=0), [Ethics Appendix](https://www.dropbox.com/s/o34vsiwhxut83pu/Quota-Appendix-Ethics.pdf?dl=0)
 - The Effect of Supervisor Collusion on the Spread of Corruption (with [Raul Sanchez de la Sierra](https://raulsanchezdelasierra.com/), [Kristof Titeca](https://kristoftiteca.be/), Aimable A. Lameke and Albert Malukisa Nkuku)
 
 ### Work in Progress
