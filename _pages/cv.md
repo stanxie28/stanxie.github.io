@@ -21,8 +21,8 @@ Latest update: July 2022
 - Visiting Scholar, Harvard University and NBER, 2023
 
 ### Research Positions
-- Research Professional, Unversity of Chicago (2021 - Present)
-- Research Assistant, Unversity of Chicago (2019 - 2021)
+- Research Professional, The University of Chicago (2021 - Present)
+- Research Assistant, The University of Chicago (2019 - 2021)
 
 ### Skills
 - Stata, R, MATLAB, Python
@@ -30,9 +30,9 @@ Latest update: July 2022
 - OpenSesame, Qualtrics
 
 ### Awards
-- Honors M.A., Unversity of Chicago (2021)
-- DRW fellow, Unversity of Chicago (2020)
-- Master Scholarship, Unversity of Chicago (2019)
+- Honors M.A., The University of Chicago (2021)
+- DRW fellow, The University of Chicago (2020)
+- Master Scholarship, The University of Chicago (2019)
 - Undergraduate Research Grant, Peking University (2018)
 - National Scholarship, Peking University (2018)
 - Merit Student, Peking University (2018, 2017)
