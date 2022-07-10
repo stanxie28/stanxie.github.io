@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Haoyang Xie (Stan). I am a Pre-Doctoral Research Professional at University of Chicago [Becker Friedman Institute](https://bfi.uchicago.edu/). Prior to joining BFI, I received my M.A. from The University of Chicago, and B.A. from Peking University. 
+Hello! I am Haoyang Xie (Stan). I am a Pre-Doctoral Research Professional at The University of Chicago [Becker Friedman Institute](https://bfi.uchicago.edu/). Prior to joining BFI, I received my M.A. from The University of Chicago, and B.A. from Peking University. 
 
 My research focuses on political, behavioral and development economics. My research relies on the great research partner [Marakuja Kivu Research](https://marakujakivuresearch.com/).
 
