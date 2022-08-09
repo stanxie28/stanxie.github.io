@@ -23,6 +23,9 @@ My research focuses on political, behavioral and development economics. My resea
 - How weak are weak states? Evidence from Two Experiments in DRC (with Yuting Chen and Raul Sanchez de la Sierra)
 
 ## Research Highlights
-Socially Costly Quota Scheme | Unofficial Revenue by Distrbutional Concerns
-:-------------------------:|:-------------------------:
-![](/images/quota-figure.png) | ![](/images/income-figure.png)
+![Socially Costly Quota Scheme](/images/quota-figure.png)
+<center>Centered text</center>
+
+![Unofficial Revenue by Distributional Concerns](/images/income-figure.png)
+
+![Decay of state capacity over distance](/images/capacity-figure.png)
