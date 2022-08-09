@@ -36,7 +36,7 @@ My research focuses on political, behavioral and development economics. My resea
 </p>
 <left>We conduct a randomized cash transfer with the police agents where agents receive a payment perceived to be an unofficial perk from office and equal to their bribe revenue. 30% of that extra income is informally taxed away by the agents' commanders.</left> 
 
-### Decay of state capacity over distance 
+### Decay of State Capacity Over Distance 
 <p align="center">
 <img src="/images/capacity-figure.png" alt="drawing" width="600"/>
 </p>
