@@ -25,14 +25,14 @@ My research focuses on political, behavioral and development economics. My resea
 ## Research Highlights
 
 ### Socially Costly Quota Scheme
-![](/images/quota-figure.png =250x)
+![](/images/quota-figure.png){ width=70% }
 <left>Experimentally decreasing the quota worsens the agency’s (police) ability to fulfill its first mandate (to manage traffic), while not improving its ability to fulfill the second (to enforce the traffic code).</left> 
 
 ### Unofficial Revenue by Distributional Concerns
-![](/images/income-figure.png =250x)
+![](/images/income-figure.png){ width=70% }
 <left>We conduct a randomized cash transfer with the police agents where agents receive a payment perceived to be an unofficial perk from office and equal to their bribe revenue. 30% of that extra income is informally taxed away by the agents' commanders.</left> 
 
 ### Decay of state capacity over distance 
-![](/images/capacity-figure.png =250x)
+![](/images/capacity-figure.png){ width=70% }
 <left>By measuring the rate of decay of state capacity over distance to the state offices, I find that each kilometer away from a state office, state capacity decreases in 5 %.</left> 
 
