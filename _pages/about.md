@@ -25,7 +25,9 @@ My research focuses on political, behavioral and development economics. My resea
 ## Research Highlights
 
 ### Socially Costly Quota Scheme
-<img src="/images/quota-figure.png" alt="drawing" width="200"/>
+<p align="center">
+<img src="/images/quota-figure.png" alt="drawing" width="600"/>
+</p>
 <left>Experimentally decreasing the quota worsens the agency’s (police) ability to fulfill its first mandate (to manage traffic), while not improving its ability to fulfill the second (to enforce the traffic code).</left> 
 
 ### Unofficial Revenue by Distributional Concerns
