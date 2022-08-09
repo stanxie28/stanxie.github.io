@@ -23,10 +23,15 @@ My research focuses on political, behavioral and development economics. My resea
 - How weak are weak states? Evidence from Two Experiments in DRC (with Yuting Chen and Raul Sanchez de la Sierra)
 
 ## Research Highlights
-<center>**Socially Costly Quota Scheme**</center> 
+<center>Socially Costly Quota Scheme</center> 
+<left>Experimentally decreasing the quota worsens the agency’s (police) ability to fulfill its first mandate (to manage traffic), while not improving its ability to fulfill the second (to enforce the traffic code).</left> 
 ![](/images/quota-figure.png)
-<center>Experimentally decreasing the quota worsens the agency’s (police) ability to fulfill its first mandate (to manage traffic), while not improving its ability to fulfill the second (to enforce the traffic code).</center> \
 
-![Unofficial Revenue by Distributional Concerns](/images/income-figure.png)
+<center>Unofficial Revenue by Distributional Concerns</center> 
+![](/images/income-figure.png)
+<left>We conduct a randomized cash transfer with the police agents where agents receive a payment perceived to be an unofficial perk from office and equal to their bribe revenue. 30% of that extra income is informally taxed away by the agents' commanders.</left> 
 
-![Decay of state capacity over distance](/images/capacity-figure.png)
+<center>Decay of state capacity over distance</center> 
+![](/images/capacity-figure.png)
+<left>By measuring the rate of decay of state capacity over distance to the state offices, I find that each kilometer away from a state office, state capacity decreases in 5 %.</left> 
+
