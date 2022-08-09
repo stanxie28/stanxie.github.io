@@ -28,13 +28,17 @@ My research focuses on political, behavioral and development economics. My resea
 <p align="center">
 <img src="/images/quota-figure.png" alt="drawing" width="600"/>
 </p>
-<left>Experimentally decreasing the quota worsens the agency’s (police) ability to fulfill its first mandate (to manage traffic), while not improving its ability to fulfill the second (to enforce the traffic code).</left> 
+<left>63% unofficial police income is generated through a “quota scheme:” managers at police stations ask agents posted at street intersections to escort drivers to the stations, where the managers extract a bribe from the drivers. Experimentally decreasing the quota worsens the agency’s ability to to manage traffic, while not improving its ability to enforce the traffic code.</left> 
 
 ### Unofficial Revenue by Distributional Concerns
-![](/images/income-figure.png)
+<p align="center">
+<img src="/images/income-figure.png" alt="drawing" width="600"/>
+</p>
 <left>We conduct a randomized cash transfer with the police agents where agents receive a payment perceived to be an unofficial perk from office and equal to their bribe revenue. 30% of that extra income is informally taxed away by the agents' commanders.</left> 
 
 ### Decay of state capacity over distance 
-![](/images/capacity-figure.png)
-<left>By measuring the rate of decay of state capacity over distance to the state offices, I find that each kilometer away from a state office, state capacity decreases in 5 %.</left> 
+<p align="center">
+<img src="/images/capacity-figure.png" alt="drawing" width="600"/>
+</p>
+<left>By measuring the rate of decay of state capacity over distance to the state offices, I find that each kilometer away from a state office, state capacity decreases in 5%.</left> 
 
