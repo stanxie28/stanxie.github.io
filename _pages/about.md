@@ -25,4 +25,4 @@ My research focuses on political, behavioral and development economics. My resea
 ## Research Highlights
 Socially Costly Quota Scheme | Unofficial Revenue by Distrbutional Concerns
 - | - 
-![alt](quota-figure.png) | ![alt](income-figure.png)
+![alt](/images/quota-figure.png) | ![alt](/images/income-figure.png)
