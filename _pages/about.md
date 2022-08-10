@@ -38,7 +38,7 @@ My research focuses on political, behavioral and development economics. My resea
 
 ### Decay of State Capacity Over Distance 
 <p align="center">
-<img src="/images/capacity-figure.png" alt="drawing" width="600"/>
+<img src="/images/capacity-figure.png" alt="drawing" width="500"/>
 </p>
 <left>By measuring the rate of decay of state capacity over distance to the state offices, I find that each kilometer away from a state office, state capacity decreases in 5%.</left> 
 
