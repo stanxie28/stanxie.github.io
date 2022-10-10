@@ -40,5 +40,5 @@ My research focuses on political, behavioral and development economics. My resea
 <p align="center">
 <img src="/images/capacity-figure.png" alt="drawing" width="500"/>
 </p>
-<left>I present one measure of state capacity and applies it to characterize how state capacity varies over space. Each kilometer away from a state office decreases state capacity by 5%. My findings represent a first attempt to empirically quantify  legal capacity as defined in the theoretical literature, and use that </left> 
+<left>I present one measure of state capacity and applies it to characterize how state capacity varies over space. Each kilometer away from a state office decreases state capacity by 5%. My findings represent a first attempt to empirically quantify  legal capacity as defined in the theoretical literature, and use that to show that state weakness is heterogeneous over space.</left> 
 
