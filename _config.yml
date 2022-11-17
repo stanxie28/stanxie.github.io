@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Stan's Website"
 title_separator          : "-"
-name                     : &name "Haoyang (Stan) Xie"
+name                     : &name "Haoyang (Stan) Xie 谢昊洋"
 description              : &description "Research Professional at UChicago BFI"
 url                      : https://stanxie28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haoyang (Stan) Xie"
+  name             : "Haoyang (Stan) Xie 谢昊洋"
   avatar           : "profile3.jpeg"
   bio              : "Research Professional at UChicago BFI"
   location         : "Chicago, IL"
