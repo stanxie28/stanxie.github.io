@@ -1,11 +1,10 @@
 ---
-title: "null"
-permalink: /
-excerpt: null
-author_profile: yes
-redirect_from:
-- /about/
-- /about.html
+title:
+excerpt: 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Hello! I am Haoyang (Stan) Xie. I am a Pre-Doctoral Research Professional at The University of Chicago [Becker Friedman Institute](https://bfi.uchicago.edu/). Prior to joining BFI, I received my M.A. from The University of Chicago, and B.A. from Peking University. 
