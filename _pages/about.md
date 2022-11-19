@@ -14,7 +14,8 @@ My research focuses on political, behavioral and development economics. My resea
 
 ## Research
 ### Working Papers
-- [The Real State: Inside the Congo’s Traffic Police Agency](https://www.dropbox.com/s/wvmixcsqnd9ciu4/Quota-Paper.pdf?dl=0) (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku) -- Revise and Resubmit at **American Economic Review**
+- [The Real State: Inside the Congo’s Traffic Police Agency](https://www.dropbox.com/s/wvmixcsqnd9ciu4/Quota-Paper.pdf?dl=0) (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku) 
+-- Revise and Resubmit at **American Economic Review**
   - Supplemental Materials: [Study Documentation](https://www.dropbox.com/s/pcg6a4ibz8jzu6j/Quota-Appendix-Study-Design.pdf?dl=0), [Ethics Appendix](https://www.dropbox.com/s/o34vsiwhxut83pu/Quota-Appendix-Ethics.pdf?dl=0)
   - Press: [BFI Insights](https://bfi.uchicago.edu/insight/research-summary/the-real-state-inside-the-congos-traffic-police-agency/), [AFP News](https://twitter.com/l4ingstone/status/1547508865561989120?s=21&t=-tgwnsn0Tz7-dOdKdAFlZw), [Africanews](https://www.africanews.com/2022/07/14/drc-drivers-in-kinshasa-reward-honest-police-officers//), [The Economist](https://www.economist.com/middle-east-and-africa/2018/09/08/kinshasas-traffic-police-make-80-of-their-income-informally), [Foreign Affairs](https://www.foreignaffairs.com/articles/africa/2017-12-12/congos-slide-chaos), [环境与发展经济学](https://mp.weixin.qq.com/s/xjWTnWtX_7fl7KpL4F_Myg)
 - The Moral Economy of Supervisor Kickbacks And  Its  Significance for Corruption (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku)
