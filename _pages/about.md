@@ -33,13 +33,13 @@ My research focuses on political, behavioral and development economics. My resea
 
 ### Kickbacks Motivated by Distributional Concerns
 <p align="center">
-<img src="/images/income-figure.png" alt="drawing" width="600"/>
+<img src="/images/figure-model.png" alt="drawing" width="600"/>
 </p>
-<left>We conduct a within-individual randomized cash transfer in the Democratic Republic of the Congo’s traffic police agency to analyze supervisor kickbacks. Kickbacks are widespread with average and marginal kickback rates similar to income taxation in Western European countries, but vary enormously between state officials.</left> 
+<left>We conduct a within-individual randomized cash transfer in the Democratic Republic of the Congo’s traffic police agency to analyze supervisor kickbacks. We present the first evidence of side payments from state officials to their supervisors and suggest that supervisor/agent collusion in the state can destroy the benefits of traditional anti-corruption policies.</left> 
 
 ### Decay of State Capacity over Distance 
 <p align="center">
 <img src="/images/capacity-figure.png" alt="drawing" width="500"/>
 </p>
-<left>Motivated by Sanchez de la Sierra (2022), I structurally quantify one measure of state capacity and applies it to characterize how state capacity varies over space. Each kilometer away from a state office decreases state capacity by 5%. My findings represent an augmented attempt to quantify legal capacity as defined in theoretical literature, and use that to show that state weakness is heterogeneous over space.</left> 
+<left>Motivated by Sanchez de la Sierra (2021), I structurally quantify one measure of state capacity and applies it to characterize how state capacity varies over space. Each kilometer away from a state office decreases state capacity by 5%. My findings represent an augmented attempt to quantify legal capacity as defined in theoretical literature, and use that to show that state weakness is heterogeneous over space.</left> 
 
