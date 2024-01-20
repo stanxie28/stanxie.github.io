@@ -25,11 +25,11 @@ My research focuses on development, political economy, and behavioral economics.
 
 ## Research Highlights
 
-### Socially Costly Quota Scheme
+### Agents Pulled Over Drivers, Often Using Brute Force
 <p align="center">
-<img src="/images/quota-figure.png" alt="drawing" width="600"/>
+<img src="/images/sentiment.png" alt="drawing" width="600"/>
 </p>
-<left>63% unofficial police income is generated through a “quota scheme:” managers at police stations ask agents posted at street intersections to escort drivers to the stations, where the managers extract a bribe from the drivers. Experimentally decreasing the quota worsens the agency’s ability to to manage traffic, while not improving its ability to enforce the traffic code.</left> 
+<left>A large share of unofficial police income is generated through a “quota scheme:” managers at police stations ask agents posted at street intersections to escort drivers to the stations, where the managers extract a bribe from the drivers. Experimentally decreasing the quota worsens the agency’s ability to to manage traffic, while not improving its ability to enforce the traffic code.</left> 
 
 ### Kickbacks Motivated by Distributional Concerns
 <p align="center">
