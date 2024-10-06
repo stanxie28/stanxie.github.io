@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Haoyang (Stan) Xie. I am a first-year PhD student at Kenneth C. Griffin Department of Economics at The University of Chicago. Prior to this, I was a Research Professional at Becker Friedman Institute. I received my M.A. from The University of Chicago, and B.A. from Peking University. 
+Hello! I am Haoyang (Stan) Xie. I am a second-year PhD student at Kenneth C. Griffin Department of Economics at The University of Chicago. Prior to this, I was a Research Professional at Becker Friedman Institute. I received my M.A. from The University of Chicago, and B.A. from Peking University. 
 
 My research focuses on development, political economy, and behavioral economics. My research relies on our amazing research partner [Marakuja Kivu Research](https://marakujakivuresearch.com/).
 
