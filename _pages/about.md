@@ -13,15 +13,17 @@ Hello! I am Haoyang (Stan) Xie. I am a first-year PhD student at Kenneth C. Grif
 My research focuses on development, political economy, and behavioral economics. My research relies on our amazing research partner [Marakuja Kivu Research](https://marakujakivuresearch.com/).
 
 ## Research
-### Working Papers
+
+### Publications
 - [The Real State: Inside the Congo’s Traffic Police Agency](https://www.dropbox.com/scl/fi/u9nny6gposre9759mta67/Quota-Paper-R3.pdf?rlkey=b7x4zn9jfmbqxtcrgz4ahpwes&st=08vuyjpm&dl=0) (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku) <br>
 <em style="text-decoration: underline;">American Economic Review</em>, 2024, forthcoming<br>
   - Supplemental Materials: [Study Design Appendix](https://www.dropbox.com/scl/fi/5cvq53b54nivjyvi6j0fn/Quota-Appendix-Study-Design.pdf?rlkey=iheheb3l83yjppo9azk7m90y3&dl=0), [Ethics Appendix](https://www.dropbox.com/scl/fi/jgpa935lgy4hsvl3l2529/Quota-Appendix-Ethics.pdf?rlkey=5pw9jdmuix289mt7xk2xl9q28&dl=0)
   - Press: [BFI Insights](https://bfi.uchicago.edu/insight/research-summary/the-real-state-inside-the-congos-traffic-police-agency/), [AFP News](https://twitter.com/l4ingstone/status/1547508865561989120?s=21&t=-tgwnsn0Tz7-dOdKdAFlZw), [Africanews](https://www.africanews.com/2022/07/14/drc-drivers-in-kinshasa-reward-honest-police-officers//), [The Economist](https://www.economist.com/middle-east-and-africa/2018/09/08/kinshasas-traffic-police-make-80-of-their-income-informally), [Foreign Affairs](https://www.foreignaffairs.com/articles/africa/2017-12-12/congos-slide-chaos), [Environment and Development Economics (“环境与发展经济学” 微信公众号)](https://mp.weixin.qq.com/s/xjWTnWtX_7fl7KpL4F_Myg)
+  
+### Working Papers
 - The Moral Economy of Supervisor Kickbacks And  Its  Significance for Corruption (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku)
 
-### Work in Progress
-- Measuring State Weakness: Inferring Underlying Legal State Capacity from Buyer Choices 
+- Measuring State Weakness: Inferring Underlying Legal State Capacity from Buyer Choices (with Raul Sanchez de la Sierra and Yuting Chen)
 
 ## Research Highlights
 
