@@ -15,15 +15,17 @@ My research focuses on development, political economy, and behavioral economics.
 ## Research
 
 ### Publications
-- [The Real State: Inside the Congo’s Traffic Police Agency](https://www.dropbox.com/scl/fi/qolv880ftt7fit4f8n6rz/Quota-Final.pdf?rlkey=asj432hc617ark0o9vgdqxhfs&st=1wyb6b0j&dl=0) (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku) <br>
-<em style="text-decoration: underline;">American Economic Review</em>, 2024, forthcoming<br>
-  - Supplemental Materials: [Study Design Appendix](https://www.dropbox.com/scl/fi/5cvq53b54nivjyvi6j0fn/Quota-Appendix-Study-Design.pdf?rlkey=iheheb3l83yjppo9azk7m90y3&dl=0), [Ethics Appendix](https://www.dropbox.com/scl/fi/jgpa935lgy4hsvl3l2529/Quota-Appendix-Ethics.pdf?rlkey=5pw9jdmuix289mt7xk2xl9q28&dl=0)
-  - Press: [BFI Insights](https://bfi.uchicago.edu/insight/research-summary/the-real-state-inside-the-congos-traffic-police-agency/), [AFP News](https://twitter.com/l4ingstone/status/1547508865561989120?s=21&t=-tgwnsn0Tz7-dOdKdAFlZw), [Africanews](https://www.africanews.com/2022/07/14/drc-drivers-in-kinshasa-reward-honest-police-officers//), [The Economist](https://www.economist.com/middle-east-and-africa/2018/09/08/kinshasas-traffic-police-make-80-of-their-income-informally), [Foreign Affairs](https://www.foreignaffairs.com/articles/africa/2017-12-12/congos-slide-chaos), [Environment and Development Economics (“环境与发展经济学” 微信公众号)](https://mp.weixin.qq.com/s/xjWTnWtX_7fl7KpL4F_Myg)
-  
+- [The Real State: Inside the Congo’s Traffic Police Agency](https://www.dropbox.com/scl/fi/9jtcvx3lsqlxwiy77nsxp/Quota-AER.pdf?rlkey=ye7e70eewg9gt2l96bzurrj8u&st=cwpgizd2&dl=0) (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku) <br>
+<em style="text-decoration: underline;">American Economic Review</em>, 2024, 114 (12): 3976–4014.<br>
+  - Online Appendix: [Appendix Figures and Tables](https://www.dropbox.com/scl/fi/yyo9mziwnh9fuscy2bd5f/Quota-OnlineAppendix1.pdf?rlkey=ox2sbwwd0yc022h9xx050cbrf&st=auk6espx&dl=0), [Study Documentation](https://www.dropbox.com/scl/fi/xty40xgzh56xbeqfl31v0/Quota-OnlineAppendix2.pdf?rlkey=jwolvx2shcxxac1a9ly36t7ux&st=fq267l2n&dl=0), [Ethics Appendix](https://www.dropbox.com/scl/fi/djknj0x3xxiurrc7dovkk/Quota-OnlineAppendix3.pdf?rlkey=ij48gwlh78a7yy422fd3xlboj&st=ce7wrgni&dl=0)
+
 ### Working Papers
 - The Moral Economy of Supervisor Kickbacks And  Its  Significance for Corruption (with Raul Sanchez de la Sierra, Kristof Titeca, Aimable A. Lameke and Albert Malukisa Nkuku)
 
 - Measuring State Weakness: Inferring Underlying Legal State Capacity from Buyer Choices (with Raul Sanchez de la Sierra and Yuting Chen)
+
+### Work in Progress
+- Foreign Hands in Ethiopia
 
 ## Research Highlights
 
